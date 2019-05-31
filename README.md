@@ -2,6 +2,9 @@
 
 	Naylan Adre
 	CMPM 163 Homework Assignment 1
-	Part A
-
+	
+	Part A:
 	itchio link: https://naylan.itch.io/homework-1-part-a
+	
+	Part B:
+	https://naylan.itch.io/homework-1-part-b

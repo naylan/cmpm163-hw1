@@ -4,7 +4,12 @@
 	CMPM 163 Homework Assignment 1
 	
 	Part A:
+	in scene named "SampleScene"
 	itchio link: https://naylan.itch.io/homework-1-part-a
 	
 	Part B:
+	in scene named "SampleScene" - post processing shader on camera
 	https://naylan.itch.io/homework-1-part-b
+	
+	Part C:
+	in scene named "Part C"

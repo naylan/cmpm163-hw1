@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{B2CBB2DC-31F1-BDFE-9F7E-661D8A4C79F4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PingPong_CellularAutomata.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PingPong_CellularAutomata.cs" Line="37" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="cmpm163-hw1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="PingPong_CellularAutomata.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f0cb84f1-41b4-4eab-a29e-97df317fd436" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

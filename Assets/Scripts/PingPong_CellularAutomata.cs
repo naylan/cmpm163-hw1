@@ -34,7 +34,7 @@ public class PingPong_CellularAutomata : MonoBehaviour
 
         for (int i = 0; i < height; i++)
             for (int j = 0; j < width; j++)
-                if (Random.Range(0.0f, 1.0f) < 0.25)
+                if (Random.Range(0.0f, 1.0f) < 0.5)
                 {
                     texA.SetPixel(i, j, Color.black);
                 } else {

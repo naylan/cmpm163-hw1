@@ -61,12 +61,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\PingPong_CellularAutomata.cs" />
+    <Compile Include="Assets\Scripts\PostProcess.cs" />
     <Compile Include="Assets\Scripts\rotate.cs" />
     <Compile Include="Assets\Scripts\RotateObj.cs" />
     <None Include="Assets\Shaders\PhongTexture.shader" />
     <None Include="Assets\Shaders\BlendingTexture.shader" />
     <None Include="Assets\Shaders\RenderToTexture_CA.shader" />
     <None Include="Assets\Shaders\ExampleShader.shader" />
+    <None Include="Assets\Shaders\PostProc.shader" />
     <None Include="Assets\Shaders\OutputTexture.shader" />
     <None Include="Assets\Shaders\OutlineShader.shader" />
     <Reference Include="Unity.TextMeshPro.Editor">

@@ -1,6 +1,6 @@
 WebGL
 PlayerPath?
-/Users/naylanadre/Desktop/CMPM163/webpagehw1/hwbuildpartcfin
+/Users/naylanadre/Desktop/CMPM163/webpagehw1/hwbuildpartcell
 SceneListBegin?
 Assets/Scenes/Part C.unity
 SceneListEnd?

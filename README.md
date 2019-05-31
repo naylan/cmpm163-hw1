@@ -13,3 +13,6 @@
 	
 	Part C:
 	in scene named "Part C"
+	
+	Part D:
+	"HomeworkPartD" pdf file
